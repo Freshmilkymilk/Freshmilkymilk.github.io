@@ -5,7 +5,7 @@ Github site for Freshmilkymilk
 - [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
 - [Personal Site](https://freshmilkymilk.github.io)
 
-##TODO - ArdaCraft
+###TODO - ArdaCraft
 - [x] Home
 - [x] About
 - [x] Rules
