@@ -1,7 +1,5 @@
 # Freshmilkymilk.github.io
 
-===
-
 Github site for Freshmilkymilk
 
 [![Build Status](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io.svg?branch=master)](Freshmilkymilk/Freshmilkymilk.github.io)
