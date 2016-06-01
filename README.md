@@ -4,7 +4,7 @@
 
 Github site for Freshmilkymilk
 
-[![Build Status](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io.svg?branch=master)]
+[![Build Status](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io.svg?branch=master)][Build Status]
 
 ## Projects
 - [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
