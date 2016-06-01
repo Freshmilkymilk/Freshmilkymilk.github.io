@@ -1,5 +1,10 @@
 # Freshmilkymilk.github.io
+
+===
+
 Github site for Freshmilkymilk
+
+[![Build Status](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io.svg?branch=master)]
 
 ## Projects
 - [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
