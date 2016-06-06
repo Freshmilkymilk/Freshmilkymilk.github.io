@@ -2,8 +2,6 @@
 
 Github site for Freshmilkymilk
 
-[![Build Status](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io.svg?branch=master)](https://travis-ci.org/Freshmilkymilk/Freshmilkymilk.github.io)
-
 ## Projects
 - [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
 - [Personal Site](https://freshmilkymilk.github.io)
