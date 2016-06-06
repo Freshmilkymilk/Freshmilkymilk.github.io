@@ -1,10 +1,4 @@
 /*-------------------------------------------------------------------------------------
-Theme Name:	Ryla
-Theme URI: 	http://themes.iki-bir.com/ryla
-Version:	1.0.2
-Author:		elemis
--------------------------------------------------------------------------------------*/
-/*-------------------------------------------------------------------------------------
 [TABLE OF CONTENTS]
 
 	00. RESET
@@ -43,12 +37,12 @@ Author:		elemis
 	33. DIVIDERS
 	34. BOX LAYOUT
 	35. RESPONSIVE
-	
+
 	font-family: 'Source Sans Pro', sans-serif;
 	text: #4d4d4d
 	hover: #25b7d3
 	headings: #3d3d3d
-	
+
 -------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------*/
 /*	00. RESET
@@ -590,21 +584,21 @@ blockquote .small {
     float: none !important;
     vertical-align: middle;
 }
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
 	.col-lg-height {
 	    display: table-cell;
 	    float: none !important;
 	    vertical-align: middle;
 	}
 }
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.col-md-height {
 	    display: table-cell;
 	    float: none !important;
 	    vertical-align: middle;
 	}
 }
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
 	.col-sm-height {
 	    display: table-cell;
 	    float: none !important;
@@ -643,7 +637,7 @@ blockquote .small {
 .btn.fixed-width {
     width: 180px
 }
-@-moz-document url-prefix() { 
+@-moz-document url-prefix() {
 	.btn.btn-square {
 	    padding-bottom: 10px !important
 	}
@@ -1050,7 +1044,7 @@ blockquote .small {
 .navbar.header3 .navbar-header {
     height: 80px
 }
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.navbar.header1 .navbar-nav,
 	.navbar.header3 .navbar-nav {
 	    height: 80px
@@ -1064,7 +1058,7 @@ blockquote .small {
 .navbar.header2 .navbar-header {
     height: 65px
 }
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.navbar.header2 .navbar-nav {
 	    height: 65px
 	}
@@ -1073,7 +1067,7 @@ blockquote .small {
 	}
 }
 /* header4 & header5 */
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.navbar.centered .navbar-nav,
 	.navbar.centered.fixed .navbar-nav {
 	    height: 54px
@@ -1087,7 +1081,7 @@ blockquote .small {
 .navbar.fixed .navbar-header {
     height: 65px
 }
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.navbar.fixed .navbar-nav {
 	    height: 65px
 	}
@@ -2702,7 +2696,7 @@ textarea {
 select {
     color: #858585 !important
 }
-@-moz-document url-prefix() { 
+@-moz-document url-prefix() {
 	select {
 	    color: #858585 !important;
 	    text-shadow: 0 0 0 transparent !important;
@@ -3606,7 +3600,7 @@ select {
 /*-----------------------------------------------------------------------------------*/
 /*	34. BOX LAYOUT
 /*-----------------------------------------------------------------------------------*/
-@media (min-width: 1270px) { 
+@media (min-width: 1270px) {
 	.box-layout {
 	    background: transparent url(style/images/bg1.jpg) repeat fixed;
 	    padding: 0;
@@ -3630,13 +3624,13 @@ select {
 /*-----------------------------------------------------------------------------------*/
 /*	35. RESPONSIVE
 /*-----------------------------------------------------------------------------------*/
-@media (min-width: 992px) and (max-width: 1199px) { 
+@media (min-width: 992px) and (max-width: 1199px) {
 	.circle-progress-wrapper {
 	    padding-left: 15px;
 	    padding-right: 15px;
 	}
 }
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.feature.text-right {
 	    padding: 0 105px 0 0;
 	    text-align: right;
@@ -3769,7 +3763,7 @@ select {
 	    padding: 0 30px
 	}
 }
-@media (max-width: 991px) { 
+@media (max-width: 991px) {
 	.circle-progress-wrapper {
 	    padding-left: 15px;
 	    padding-right: 15px;
@@ -3877,7 +3871,7 @@ select {
 	    width: 100%
 	}
 }
-@media (min-width: 768px) and (max-width: 991px) { 
+@media (min-width: 768px) and (max-width: 991px) {
 	.container {
 	    padding-right: 15px;
 	    padding-left: 15px;
@@ -3889,7 +3883,7 @@ select {
 	    padding-right: 15px;
 	}
 }
-@media (max-width: 767px) { 
+@media (max-width: 767px) {
 	.container {
 	    padding-right: 20px;
 	    padding-left: 20px;
@@ -3964,7 +3958,7 @@ select {
 	    display: none
 	}
 }
-@media only screen and (max-width: 479px) { 
+@media only screen and (max-width: 479px) {
 	.tp-caption.medium .btn {
 	    padding: 5px 10px !important;
 	    font-size: 8px !important;
