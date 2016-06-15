@@ -8,9 +8,10 @@ Github site for Freshmilkymilk
 
 ###TODO - ArdaCraft
 - [x] Home
-- [x] About
+- [ ] About
 - [x] Rules
-- [ ] FAQ
-- [x] Guides
+- [x] FAQ
+- [ ] Guides
 - [ ] Modpack
-- [ ] Forums
+- [x] Forums
+- [x] Pages
