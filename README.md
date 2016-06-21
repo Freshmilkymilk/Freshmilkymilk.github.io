@@ -8,7 +8,7 @@ Github site for Freshmilkymilk
 
 ###TODO - ArdaCraft
 - [x] Home
-- [ ] About
+- [x] About
 - [x] Rules
 - [x] FAQ
 - [ ] Guides
