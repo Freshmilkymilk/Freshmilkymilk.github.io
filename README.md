@@ -7,11 +7,13 @@ Github site for Freshmilkymilk
 - [Personal Site](https://freshmilkymilk.github.io)
 
 ###TODO - ArdaCraft
-- [x] Home
 - [x] About
-- [x] Rules
+- [x] Application
+- [ ] Assets
 - [x] FAQ
-- [ ] Guides
-- [ ] Modpack
-- [x] Forums
+- [x] Guides
+- [x] Home
+- [ ] Map
+- [x] Modpack
 - [x] Pages
+- [x] Rules
