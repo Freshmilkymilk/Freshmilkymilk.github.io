@@ -1025,7 +1025,7 @@ blockquote .small {
     position: fixed;
     margin: 0;
     width: 100%;
-    background: rgba(255,255,255,0.9);
+    background: rgba(46, 48, 51, 1);
     box-shadow: 0 1px 2px -1px rgba(0, 0, 0, 0.4);
 }
 .navbar.fixed .top-bar {
