@@ -6,6 +6,13 @@ Github site for Freshmilkymilk
 - [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
 - [Personal Site](https://freshmilkymilk.github.io)
 
+###TODO - Personal Site
+- [ ] Home
+- [ ] About
+- [ ] Services
+- [ ] Portfolio
+- [ ] Contact
+
 ###TODO - ArdaCraft
 - [x] About
 - [x] Application
