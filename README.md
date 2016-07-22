@@ -7,11 +7,11 @@ Github site for Freshmilkymilk
 - [Personal Site](https://freshmilkymilk.github.io)
 
 ###TODO - Personal Site
-- [ ] Home
-- [ ] About
+- [x] Home
+- [x] About
 - [ ] Services
 - [ ] Portfolio
-- [ ] Contact
+- [x] Contact
 
 ###TODO - ArdaCraft
 - [x] About
