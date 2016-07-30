@@ -3,7 +3,7 @@
 Github site for Freshmilkymilk
 
 ## Projects
-- [ArdaCraft](https://freshmilkymilk.github.io/ardacraft)
+- [ArdaCraft](https://ardacraft.me)
 - [Personal Site](https://freshmilkymilk.github.io)
 
 ###TODO - Personal Site
@@ -20,7 +20,7 @@ Github site for Freshmilkymilk
 - [x] FAQ
 - [x] Guides
 - [x] Home
-- [ ] Map
+- [x] Map
 - [x] Modpack
 - [x] Pages
 - [x] Rules
